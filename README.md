@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/Niansheng/ml_microservice_kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/Niansheng/ml_microservice_kubernetes)
+[![CircleCI](https://circleci.com/gh/Niansheng/ml_microservice_kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/Niansheng/ml_microservice_kubernetes)
 
 
 ## Project Overview
